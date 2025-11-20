@@ -1,5 +1,5 @@
 {
-  "name": "scaffolding",
+  "name": "financial-analyst",
   "build": {
     "dockerfile": "Dockerfile",
     "target": "devcontainer"

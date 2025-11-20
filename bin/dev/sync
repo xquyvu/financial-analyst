@@ -28,7 +28,6 @@ while :; do
 done
 
 uv sync
-uv run pre-commit install
 
 # It seems that there are some leftover files in the npm cache that are owned by root. This command will fix that.
 sudo rm -rf "$HOME/.npm"
