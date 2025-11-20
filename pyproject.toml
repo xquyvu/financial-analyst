@@ -5,6 +5,7 @@ description = "Agent for analysing a company's financial performance"
 readme = "README.md"
 requires-python = "==3.12.*"
 dependencies = [
+    "experiment",
     "shared",
 ]
 
@@ -44,3 +45,4 @@ members = ["packages/*"]
 
 [tool.uv.sources]
 shared = { workspace = true }
+experiment = { workspace = true }
