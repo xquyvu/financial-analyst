@@ -31,7 +31,8 @@
         "stkb.rewrap",
         "davidanson.vscode-markdownlint",
         "timonwong.shellcheck",
-        "peterjclaw.tuck"
+        "peterjclaw.tuck",
+        "yzhang.markdown-all-in-one",
       ]
     }
   },
