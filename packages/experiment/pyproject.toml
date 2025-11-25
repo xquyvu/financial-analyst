@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 dependencies = [
+    "agent-framework>=1.0.0b251120",
     # needed for logging in AzureML
     "azureml-mlflow==1.60.*",
     "mlflow-skinny==2.21.*",
