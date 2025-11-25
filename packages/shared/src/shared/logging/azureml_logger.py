@@ -14,6 +14,9 @@ if tracking_uri := os.getenv("MLFLOW_TRACKING_URI", None):
     def log_metrics(metrics: dict[str, int | float]) -> None:
         mlflow.log_metrics(metrics)
 
+    def log_artifact(local_path: str, artifact_path: str | None = None) -> None:
+        mlflow.log_artifact(local_path, artifact_path)
+
 else:
 
     def set_tags(tags: dict[str, str]) -> None:
@@ -23,3 +26,6 @@ else:
     def log_metrics(metrics: dict[str, int | float]) -> None:
         for name, value in metrics.items():
             print(f"metric:{name}={value}", file=sys.stderr)
+
+    def log_artifact(local_path: str, artifact_path: str | None = None) -> None:
+        print(f"artifact:{local_path} -> {artifact_path or '.'}", file=sys.stderr)
