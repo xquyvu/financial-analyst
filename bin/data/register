@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #? [Data] Register a data asset in AzureML
 
+source bin/env
 set -eo pipefail
 cd "$(dirname "$0")/../.."
 

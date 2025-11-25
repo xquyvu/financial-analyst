@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #? [Package] Remove a package from the workspace
 
+source bin/env
 set -eo pipefail
 cd "$(dirname "$0")/../.."
 

@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #? [Development] Ensure dev env is in sync with the repo
 
+source bin/env
 set -eo pipefail
 cd "$(dirname "$0")/../.."
 

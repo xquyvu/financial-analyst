@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #? [Data] Download data from Azure Blob Storage
 
+source bin/env
 set -eo pipefail
 cd "$(dirname "$0")/../.."
 

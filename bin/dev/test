@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #? [Development] Run pytest for the project with coverage
 
+source bin/env
 set -eo pipefail
 cd "$(dirname "$0")/../.."
 

@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #? [Data] Find account, container and subdir for a named data asset
 
+source bin/env
 set -eo pipefail
 cd "$(dirname "$0")/../.."
 

@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #? [Package] Execute package locally as it would in AzureML
 
+source bin/env
 set -eo pipefail
 cd "$(dirname "$0")/../.."
 

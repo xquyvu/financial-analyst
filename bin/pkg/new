@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #? [Package] Initialize new package in the project
 
+source bin/env
 set -eo pipefail
 cd "$(dirname "$0")/../.."
 

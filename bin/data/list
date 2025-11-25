@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #? [Data] List data in a Blob Storage Container
 
+source bin/env
 set -eo pipefail
 cd "$(dirname "$0")/../.."
 

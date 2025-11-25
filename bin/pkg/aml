@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #? [Package] Execute a package in AzureML
 
+source bin/env
 set -eo pipefail
 cd "$(dirname "$0")/../.."
 
