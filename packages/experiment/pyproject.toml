@@ -6,6 +6,8 @@ readme = "README.md"
 dependencies = [
     "agent-framework>=1.0.0b251120",
     # needed for logging in AzureML
+    "agent-framework-azure-ai>=1.0.0b251120",
+    "azure-ai-projects>=1.0.0",
     "azureml-mlflow==1.60.*",
     "mlflow-skinny==2.21.*",
     "pandas>=2.3.3",
