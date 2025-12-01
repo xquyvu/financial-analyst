@@ -9,10 +9,10 @@ from shared.config import ASYNC_CREDENTIAL, SYNC_CREDENTIAL
 load_dotenv()
 
 
-def get_agent_client() -> AzureAIAgentClient:
+def get_agent_client(model_deployment_name: str = "gpt-4.1-mini") -> AzureAIAgentClient:
     return AzureAIAgentClient(
         async_credential=ASYNC_CREDENTIAL,
-        model_deployment_name="gpt-4.1-mini",
+        model_deployment_name=model_deployment_name,
     )
 
 
