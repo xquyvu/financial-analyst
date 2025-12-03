@@ -1,0 +1,145 @@
+{
+  "material_changes": [
+    {
+      "material_change": "Increase in revenue (exc. VAT, inc. fuel) by 3.0% at constant rates to £69,916m.",
+      "reasons_for_change": [
+        {
+          "reason": "Higher volumes and improved category mix, supported by continued investments in value, quality and service.",
+          "suporting_text": "Sales1 increased by 4.0% at constant rates, including a strong contribution from higher volumes and improved category mix, supported by our continued investments in value, quality and service.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 24
+          }
+        },
+        {
+          "reason": "Decline in fuel sales, mainly driven by lower retail prices year-on-year.",
+          "suporting_text": "Revenue increased by 3.0% at constant rates, including a (6.3)% decline in fuel sales, mainly driven by lower retail prices year-on-year.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 24
+          }
+        }
+      ]
+    },
+    {
+      "material_change": "Increase in group adjusted operating profit by 10.9% at constant rates to £3,128m.",
+      "reasons_for_change": [
+        {
+          "reason": "Higher sales volumes and a £510m contribution from Save to Invest more than offset net operating cost inflation.",
+          "suporting_text": "Group adjusted operating profit1 increased by 10.9% at constant rates, driven by further progress in our core retail markets as higher sales volumes and a further c.£510m contribution from Save to Invest more than offset net operating cost inflation.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 24
+          }
+        },
+        {
+          "reason": "Increase in Insurance and Money Services adjusted operating profit, including £46m of non-recurring items due to a new five-year pet insurance contract.",
+          "suporting_text": "Group adjusted operating profit includes Insurance and Money Services where adjusted operating profit increased by £86m to £155m, including £46m of non-recurring items mainly due to a new five-year pet insurance contract.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 24
+          }
+        }
+      ]
+    },
+    {
+      "material_change": "Decrease in statutory operating profit by 3.9% year-on-year to £2,171m.",
+      "reasons_for_change": [
+        {
+          "reason": "Non-cash net impairment charge on non-current assets of £268m, mainly due to a decrease in discount rates driven by higher government bond rates compared to the prior year.",
+          "suporting_text": "Statutory operating profit decreased by (3.9)% year-on-year, as the group adjusted operating profit growth described above was more than offset by a non-cash net impairment charge on non-current assets of £268m, mainly due to a decrease in discount rates driven by higher government bond rates compared to the prior year.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 24
+          }
+        }
+      ]
+    },
+    {
+      "material_change": "Decrease in net finance costs (including adjusting items) by £46m year-on-year to £492m.",
+      "reasons_for_change": [
+        {
+          "reason": "Lower net interest costs on medium-term notes as a result of net refinancing activities and favourable non-cash mark-to-market movements on certain derivative financial instruments.",
+          "suporting_text": "Net finance costs (including adjusting items) were £46m lower year-on-year, mainly due to lower net interest costs on medium-term notes as a result of net refinancing activities, and favourable non-cash mark-to-market movements on certain derivative financial instruments.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 24
+          }
+        }
+      ]
+    },
+    {
+      "material_change": "Increase in statutory profit before tax by 3.2% to £2,215m.",
+      "reasons_for_change": [
+        {
+          "reason": "Higher operating profit and the full year effect of the increase in UK corporation tax rates, effective from 1 April 2023.",
+          "suporting_text": "The higher tax charge this year was driven by higher operating profit and the full year effect of the increase in UK corporation tax rates, effective from 1 April 2023.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 24
+          }
+        }
+      ]
+    },
+    {
+      "material_change": "Net debt decreased by £230m year-on-year.",
+      "reasons_for_change": [
+        {
+          "reason": "Strong free cash flow generation and gross proceeds from the sale of Banking operations.",
+          "suporting_text": "Net debt was £9,454m, a decrease of £230m year-on-year, predominantly driven by strong free cash flow generation of £1,750m and gross proceeds from Barclays of £614m related to the disposal of our Banking operations.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 28
+          }
+        },
+        {
+          "reason": "Cash outflows relating to share buyback programme and dividend payments partially offset the decrease.",
+          "suporting_text": "This exceeded the cash outflows relating to our ongoing share buyback programme of £1,016m and dividend payments of £864m.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 28
+          }
+        }
+      ]
+    },
+    {
+      "material_change": "Statutory diluted EPS decreased by 5.17% year-on-year.",
+      "reasons_for_change": [
+        {
+          "reason": "Non-cash net impairment charge on non-current assets in the year.",
+          "suporting_text": "Statutory diluted EPS was 23.13p, (5.17)% lower year-on-year, primarily driven by the £(286)m non-cash net impairment charge on non-current assets in the year, compared to a £28m impairment release in the prior year.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 28
+          }
+        }
+      ]
+    },
+    {
+      "material_change": "Statutory diluted EPS (including discontinued operations) increased by 42.0% year-on-year.",
+      "reasons_for_change": [
+        {
+          "reason": "Remeasurement loss recognised last year related to the sale of Banking operations.",
+          "suporting_text": "On a total basis, including discontinued operations, statutory diluted EPS was 23.51p, 42.0% higher year-on-year due to the effect of the remeasurement loss recognised last year related to the sale of our banking operations.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 28
+          }
+        }
+      ]
+    },
+    {
+      "material_change": "Net IAS 19 pension deficit improved from £473m to £180m.",
+      "reasons_for_change": [
+        {
+          "reason": "Principally reflecting the impact of higher discount rates.",
+          "suporting_text": "Net of tax, the net IAS 19 pension deficit has improved from £473m to £180m, principally reflecting the impact of higher discount rates.",
+          "reference": {
+            "file_name": "Tesco AR report extracted",
+            "page_number": 28
+          }
+        }
+      ]
+    }
+  ]
+}
