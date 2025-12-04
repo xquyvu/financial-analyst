@@ -1,4 +1,4 @@
-from ..src.experiment.agents import get_project_client
+from ...shared.src.shared.agents import get_project_client
 
 
 def test_get_project_client():
