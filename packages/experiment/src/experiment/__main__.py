@@ -1,7 +1,7 @@
 import asyncio
 from pathlib import Path
 
-from experiment.agents import get_agent_client
+from shared.agents import get_agent_client
 from shared.logging import azureml_logger
 
 

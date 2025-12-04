@@ -13,7 +13,7 @@ from agent_framework import ChatAgent, ChatMessage, DataContent, Role, TextConte
 from jinja2 import Environment, FileSystemLoader, Template
 from pydantic import BaseModel, Field
 
-from experiment.agents import get_agent_client
+from shared.agents import get_agent_client
 from shared.llm_utils import get_image_data_urls
 
 # Configure logging to print to terminal
